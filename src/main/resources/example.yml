@@ -1,0 +1,35 @@
+# this is a comment
+
+name: Kacper
+
+names: #Inline comment
+  - John
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+#more complex things
+book:
+  author: Joe Buck
+  publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+colon_string: "my courses: one two three"
+
+include_new_lines:
+  asd asd asd
+  asd asd asd
+  asdasdasd asd
+
+ignore_new_lines:
+  this is a
+  long string
+  without new lines

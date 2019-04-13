@@ -1,0 +1,12 @@
+js:
+  user: YAML js
+  password: YAML passowrd
+  dburl: YAML dburl
+
+---
+spring:
+  profiles: de
+js:
+  user: YAML username $$$$ GERMAN
+  password: YAML passowrd
+  dburl: YAML dburl

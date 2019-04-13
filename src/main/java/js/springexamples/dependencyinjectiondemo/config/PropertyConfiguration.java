@@ -29,10 +29,11 @@ public class PropertyConfiguration {
 
         return fakeDataSource;
     }
-
+/*
     @Bean
     public static PropertySourcesPlaceholderConfigurer properties(){
 
         return new PropertySourcesPlaceholderConfigurer();
     }
+*/
 }
